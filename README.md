@@ -92,6 +92,16 @@ A curated list of AI agent frameworks, tools, and platforms for building autonom
 
 Know a tool that's missing? Open an issue or PR!
 
+
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+
 ## License
 
 MIT
