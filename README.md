@@ -86,7 +86,7 @@ A curated list of AI agent frameworks, tools, and platforms for building autonom
 - [Free API Directory](https://github.com/spinov001-art/free-api-directory) — 100+ free APIs for agent tools
 - [MCP Servers Collection](https://github.com/spinov001-art/mcp-servers-collection) — curated MCP servers
 - [Web Scraping Cheatsheet](https://github.com/spinov001-art/web-scraping-cheatsheet) — data collection for agents
-- [Dev.to Articles (485+)](https://dev.to/0012303) — AI tutorials and guides
+- [Portfolio](https://github.com/spinov001-art) — AI tutorials and guides
 
 ## Contributing
 
