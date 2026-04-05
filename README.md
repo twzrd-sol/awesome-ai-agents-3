@@ -96,5 +96,12 @@ Know a tool that's missing? Open an issue or PR!
 
 MIT
 
+## Need Custom AI/Scraping Solutions?
+
+I build production-grade scrapers and AI data pipelines. 78+ tools on [Apify Store](https://apify.com/knotless_cadence).
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your data need, get a **free quote within 2 hours**.
+
 ---
-*Curated by [spinov001-art](https://github.com/spinov001-art). Updated March 2026.*
+
+*Curated by [spinov001-art](https://github.com/spinov001-art). Updated April 2026.*
