@@ -87,10 +87,21 @@ A curated list of AI agent frameworks, tools, and platforms for building autonom
 - [MCP Servers Collection](https://github.com/spinov001-art/mcp-servers-collection) — curated MCP servers
 - [Web Scraping Cheatsheet](https://github.com/spinov001-art/web-scraping-cheatsheet) — data collection for agents
 - [Portfolio](https://github.com/spinov001-art) — AI tutorials and guides
+- [All Projects on GitHub](https://github.com/spinov001-art) — AI tutorials and guides
 
 ## Contributing
 
 Know a tool that's missing? Open an issue or PR!
+
+
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
 
 ## License
 
