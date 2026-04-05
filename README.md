@@ -2,6 +2,10 @@
 
 A curated list of AI agent frameworks, tools, and platforms for building autonomous AI systems.
 
+> 🚀 **Need custom AI agent development or automation solutions?** Get a production-grade tool in 48 hours — $250 flat rate. [Get a free quote →](mailto:spinov001@gmail.com) | [Browse 78+ scrapers →](https://apify.com/knotless_cadence)
+
+---
+
 ## Agent Frameworks
 
 | Framework | Language | Key Feature |
@@ -111,7 +115,7 @@ MIT
 
 I build production-grade scrapers and AI data pipelines. 78+ tools on [Apify Store](https://apify.com/knotless_cadence).
 
-📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your data need, get a **free quote within 2 hours**.
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — $250 flat rate, 48h delivery. Describe your data need, get a **free quote within 2 hours**.
 
 ---
 
